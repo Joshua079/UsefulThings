@@ -1,4 +1,4 @@
-#  {WIP} UsefulThings. 
+#  {WIP} Useful Things. 
 
 It's been quite a while since I contributed to this... Tbf, I use so many things from FMHY and some software utilities from various sources. Check out FMHY for anything free and useful. From AdBlockers, to link shortener bypasses, software utilities, and even educational tools and utilities. :) 
 
